@@ -1,8 +1,8 @@
 # Jaspers
 
-**The agentic terminal for public markets.** Jaspers builds [Jaspers Terminal](https://jsprai.com/terminal/), an open-source desktop workspace for professional investors, quants, and traders: say what you want to see, and its assistant puts the right view on a trading-screen grid, fills it with market and alternative data over the Model Context Protocol, and writes the plugins it lacks. Free, MIT-licensed, for macOS and Windows.
+Jaspers runs hosted MCP servers over public corporate data that any agent can connect to with a Jaspers account: **Jaspers Screener MCP** (`https://s.jsprai.com/mcp`) screens about 7,100 US SEC registrants and reads a short list's filings against criteria in words, and **Jaspers Research MCP** (`https://analyst-api.jsprai.com/mcp/open`) searches and reads company's filings with every quote verified against its primary source with proprietary Jaspers ontology.
 
-Jaspers also runs two hosted MCP servers over SEC data that any agent can connect to with a Jaspers account: **Jaspers Screener MCP** (`https://s.jsprai.com/mcp`) screens about 7,100 US SEC registrants and reads a short list's filings against criteria in words, and **Jaspers Research MCP** (`https://analyst-api.jsprai.com/mcp/open`) searches and reads one company's filings with every quote verified against sec.gov.
+Jaspers also builds [Jaspers Terminal](https://jsprai.com/terminal/), an open-source desktop workspace for professional investors, quants, and traders: say what you want to see, and its assistant puts the right view on a trading-screen grid, fills it with market and alternative data over the Model Context Protocol, and writes the plugins it lacks. Free, MIT-licensed, for macOS and Windows.
 
 | | |
 | --- | --- |
